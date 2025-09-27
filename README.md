@@ -17,10 +17,8 @@ This repo contains solutions to Kaggle competitions and personal ML projects, in
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| Dog Breed Classification | CNN-based model using ResNet32 to classify dog breeds from images | Completed |
-| Titanic Survival Prediction | Classic Kaggle beginner competition on logistic regression & feature engineering | Completed |
-| Constrained Headline Generation | AI/NLP project for constrained text generation using Transformers | Completed |
-| Meter Reading Verification | Image classification using CNN for meter digit verification | Completed |
+| Dog Breed Classification | CNN-based model using ResNet34 to classify dog breeds from images | Completed |
+| House Price Predictions | Classic Kaggle beginner competition on regression | Completed |
 
 *(More projects coming soon!)*
 
@@ -28,27 +26,9 @@ This repo contains solutions to Kaggle competitions and personal ML projects, in
 
 ## 🛠️ Tools & Technologies
 
-- **Programming Languages:** Python  
-- **Libraries & Frameworks:** PyTorch, TensorFlow, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn  
-- **Skills:** Machine Learning, Deep Learning, Data Analysis, Computer Vision, NLP  
-
----
-
-## 📈 My Workflow
-
-1. **Data Exploration & Preprocessing**  
-2. **Model Selection & Training**  
-3. **Evaluation & Tuning**  
-4. **Submission to Kaggle**  
-5. **Documentation & Sharing**
-
----
-
-## 🎯 Achievements
-
-- Successfully built **image classification pipelines** for dog breeds & meter reading datasets.  
-- Experimented with **transformer-based models for NLP tasks**.  
-- Applied **feature engineering and model optimization techniques** in Kaggle competitions.  
+- **Programming Languages:** Python, JavaScript
+- **Libraries & Frameworks:** PyTorch, TensorFlow, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn 
+- **Skills:** Machine Learning, Deep Learning, Data Analysis, Computer Vision, NLP, Generative AI
 
 ---
 
@@ -62,9 +42,9 @@ This repo contains solutions to Kaggle competitions and personal ML projects, in
 
 ## 🔗 Connect with Me
 
-- [Kaggle Profile](https://www.kaggle.com/yourusername)  
+- [Kaggle Profile](https://www.kaggle.com/muratazaabdullah2010)  
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Portfolio / Blog]()
+- [Portfolio](https://murtazaadbullah10.web.app)
 
 ---
 
