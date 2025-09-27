@@ -43,7 +43,6 @@ This repo contains solutions to Kaggle competitions and personal ML projects, in
 ## 🔗 Connect with Me
 
 - [Kaggle Profile](https://www.kaggle.com/muratazaabdullah2010)  
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - [Portfolio](https://murtazaadbullah10.web.app)
 
 ---
