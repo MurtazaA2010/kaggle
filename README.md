@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Enthusiast Projects
+# 🧠 Machine Learning Projects
 
 Welcome to my repository! Here, I share some of my **Kaggle competition solutions** and personal ML experiments. These projects showcase my journey in **data science, machine learning, and deep learning**.
 
