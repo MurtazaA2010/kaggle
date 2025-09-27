@@ -42,7 +42,7 @@ This repo contains solutions to Kaggle competitions and personal ML projects, in
 
 ## 🔗 Connect with Me
 
-- [Kaggle Profile](https://www.kaggle.com/muratazaabdullah2010)  
+- [Kaggle Profile](https://www.kaggle.com/murtazaabdullah2010)
 - [Portfolio](https://murtazaadbullah10.web.app)
 
 ---
